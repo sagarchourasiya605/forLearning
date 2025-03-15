@@ -1,2 +1,0 @@
-name = sagar
-password = sagar111*
